@@ -1,7 +1,7 @@
 const container = document.createElement('div');
 document.body.appendChild(container)
 
-container.style.backgroundImage = ('bgImg.avif');
+container.style.backgroundImage = `url('task1.avif')`;
 container.style.backgroundSize = "cover";
 container.style.backgroundRepeat='no repeat';
 container.style.height = "600px";
